@@ -1,5 +1,5 @@
-# scottstevelincklovesvisualbasic
-This is a tribute to Visual Basic for my buddy Scott
+# secretdocforjorge
+This is secret API for Jorge
 
 
-https://czechjiri.github.io/scottstevelincklovesvisualbasic
+https://czechjiri.github.io/secretdocforjorge
